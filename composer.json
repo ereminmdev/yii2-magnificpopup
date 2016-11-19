@@ -1,0 +1,24 @@
+{
+  "name": "ereminmdev/yii2-magnificpopup",
+  "description": "MagnificPopup widget for Yii framework.",
+  "keywords": ["yii2","widget","magnificpopup"],
+  "homepage": "https://bitbucket.org/ereminmdev/yii2-magnificpopup",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Eremin",
+      "email": "ereminmdev@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0",
+    "dimsemenov/magnific-popup": "^1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ereminmdev\\yii2\\magnificpopup\\": ""
+    }
+  }
+}
