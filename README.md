@@ -2,11 +2,11 @@
 
 MagnificPopup widget for Yii framework.
 
-This widget depend on Magnific Popup script: http://dimsemenov.com/plugins/magnific-popup/
+This widget depends on Magnific Popup script: http://dimsemenov.com/plugins/magnific-popup/
 
 ## Install
 
-``composer require ereminmdev/yii2-magnificpopup``
+``composer require --prefer-dist ereminmdev/yii2-magnificpopup``
 
 ## Use
 
