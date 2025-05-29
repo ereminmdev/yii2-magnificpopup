@@ -2,7 +2,7 @@
   "name": "ereminmdev/yii2-magnificpopup",
   "description": "MagnificPopup widget for Yii framework.",
   "keywords": ["yii2","widget","magnificpopup"],
-  "homepage": "https://bitbucket.org/ereminmdev/yii2-magnificpopup",
+  "homepage": "https://github.com/ereminmdev/yii2-magnificpopup",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.4",
     "yiisoft/yii2": "~2.0.1",
     "dimsemenov/magnific-popup": "^1"
   },
